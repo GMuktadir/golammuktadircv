@@ -1,38 +1,38 @@
-name: John Doe
-support_dark_mode: true
+name: MD.GOLAM MUKTADIR
+support_dark_mode: false
 star: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: gm.cse.duet@gmail.com
+  github: gmuktadir
+  linkedin: mgmuktadir
+  phone: +880192177xxxx
   gitlab: 
-  twitter: 
+  twitter: go_muktadir
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Bangla
+  - idiom: Urdu
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: MSc in IICT
+    time: 2022-Present
+    university: Bangladesh University of Engineering and Technology(BUET)
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: BSc in Computer Science and Engineering
+    time: 2015-2019
+    university: Dhaka University of Engineering and Technology (DUET), Gazipur
 
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
+      - PHP
+      - Python
   - category: Frontend
     skill:
-      - React
+      - Vue.js
       - Typescript
   - category: DevOps
     skill:
