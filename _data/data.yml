@@ -49,17 +49,15 @@ profile: |
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Research Assistant
+    time: March,2021-May,2022
+    company: Dept of CSE, DUET
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Project Title: Implementation of Institutional Repository for DUET and Integration with KOHA Based DUET Digital Library.
+      Responsibilty: Build a institutional repository for scholar items for DUET such as: Preserve digitally  Thesis paper, Journal paper, Conference Paper,
+      Technical report by using OpenSource: Dspace. Redesign logic and user interface regarded for DUET.
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Java,Perl,Mysql,Postgresql
   
   - role: Researcher
     time: 2016-2020
