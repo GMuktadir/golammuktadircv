@@ -30,22 +30,24 @@ skills:
     skill: 
       - PHP
       - Python
+      - Java
   - category: Frontend
     skill:
+      - Bootstrap
       - Vue.js
       - Typescript
   - category: DevOps
     skill:
+      - Vware Esxi
+      - Vagrant
       - Docker
       - Kubernetes 
+      
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  To work in the programming sector of different private or public organization in Bangladesh,
+  where I can utilize my skill and grow responsibility with increasing responsibilities.
 
 # Experience
 experience:
@@ -54,10 +56,10 @@ experience:
     company: Dept of CSE, DUET
     details: |
       Project Title: Implementation of Institutional Repository for DUET and Integration with KOHA Based DUET Digital Library.
-      Responsibilty: Build a institutional repository for scholar items for DUET such as: Preserve digitally  Thesis paper, Journal paper, Conference Paper,
-      Technical report by using OpenSource: Dspace. Redesign logic and user interface regarded for DUET.
+      Responsibilty: Build an institutional repository for scholar items for DUET such as: Preserve digitally  Thesis paper, Journal paper, Conference Paper,
+      Technical report by using OpenSource Dspace. Build Integrated Digital Library using opensource Koha Redesign logic and user interface regarded for DUET. 
     technologies_used: | 
-      Java,Perl,Mysql,Postgresql
+      Java,Perl,Mysql,Postgresql,Bootstrap 
   
   - role: Researcher
     time: 2016-2020
