@@ -19,12 +19,15 @@ languages:
 education:
   - degree: MSc in IICT
     time: 2022-Present
-    university: Bangladesh University of Engineering and Technology(BUET)
+    university: BUET
 
-  - degree: BSc in Computer Science and Engineering
+  - degree: BSc in CSE
     time: 2015-2019
-    university: Dhaka University of Engineering and Technology (DUET), Gazipur
+    university: DUET
 
+  - degree: Diploma in Engg. CMT
+    time: 2009-2013(4 years)
+    university: JPI
 skills:
   - category: Backend
     skill: 
